@@ -65,4 +65,5 @@ Before running the SQL scripts, ensure you have:
 - Thanks to the [creator](https://www.youtube.com/@DataWithBaraa) of the dataset used in this project.
 
 ## Contact
-For any questions or suggestions, feel free to open an issue or contact me [here](raphaeloyelami1@gmail.com).
+For any questions or suggestions, feel free to open an issue or contact me [here](https://www.linkedin.com/in/raphael-oyelami/)
+.
