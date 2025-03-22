@@ -52,7 +52,7 @@ The SQL scripts provided are organized into the following categories:
 ## ERD (Entity-Relationship Diagram)
 An Entity-Relationship Diagram (ERD) of the database schema is available in the `docs/` folder. The diagram visualizes the relationships between the tables in the database and provides insights into how the data is structured.
 
-![ERD](https://github.com/raphaeloyelami/sql_advanced_data_analytics_project/blob/3d06c805132f99d9ff5017ca036c1ea0f31b2e45/docs/data_model.png)
+![ERD](https://github.com/raphaeloyelami/sql_advanced_data_analytics_project/blob/e237d9bd4b2e3144c6a01f48cae1398e3eb526b3/docs/data_model.png)
 
 ## Prerequisites
 Before running the SQL scripts, ensure you have:
