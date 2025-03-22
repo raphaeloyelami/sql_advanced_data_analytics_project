@@ -1,5 +1,5 @@
 # SQL Advanced Data Analytics Project
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting. These scripts cover various analyses such as database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, and more.
+![image](https://pg-p.ctme.caltech.edu/wp-content/uploads/sites/4/2024/04/sql-for-data-analysis.jpg)
 
 ## Project Overview
 This repository contains an advanced SQL data analytics project that involves the exploration, analysis, and reporting of a sales database. The project utilizes multiple SQL techniques to analyze and derive insights from a retail sales dataset, consisting of customer, product, and sales data across various tables. The objective is to leverage SQL queries to generate meaningful business insights, customer behavior analysis, product performance, and sales metrics.
